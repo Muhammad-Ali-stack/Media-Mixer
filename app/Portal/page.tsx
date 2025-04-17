@@ -20,7 +20,8 @@ export default function LoginPage() {
       <div className="absolute top-4 right-4">
         <Switch
           checked={darkMode}
-          onCheckedChange={() => setDarkMode(!darkMode)}
+          onChange={() => setDarkMode(!darkMode)}
+
           icon={darkMode ? <SunIcon /> : <MoonIcon />}
         />
       </div>

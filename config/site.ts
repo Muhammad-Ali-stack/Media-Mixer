@@ -16,10 +16,7 @@ export const siteConfig = {
       label: "Content",
       href: "/Videos",
     },
-    {
-      label: "Portal",
-      href: "/Portal",
-    },
+   
     {
       label: "About",
       href: "/about",
@@ -39,10 +36,7 @@ export const siteConfig = {
       label: "Content",
       href: "/Videos",
     },
-    {
-      label: "Portal",
-      href: "/Portal",
-    },
+    
     {
       label: "Logout",
       href: "/logout",
